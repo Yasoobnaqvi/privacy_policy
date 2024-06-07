@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Thank you for using [Your Skill Name]. This Privacy Policy explains how we collect, use, and protect your information.
+Thank you for using test. This Privacy Policy explains how we collect, use, and protect your information.
 
 ## Information We Collect
 
@@ -33,8 +33,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [Your Contact Information].
+If you have any questions or concerns about this Privacy Policy, please contact us at muhammad.yasoob@mparsec.com.
 
 ---
 
-Last updated: [Date]
+Last updated: 07/06/2024
